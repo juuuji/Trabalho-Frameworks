@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body{
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(102, 157, 168);
+}
+
+
+
+
+
+.textoMarrom{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#353332;
+    font-size: medium;
+    
+}
+
+.textoComum{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.text-light{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.lightGrande{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+}
+
+.lightMenor{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+
+.darkGrande{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    color:#28231f;
+}
+
+.darkMenor{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    color:#62605e;
+}
+
+.textoBonito{
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+.centro{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.text-dark{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    margin: 0 auto;
+    color: #28231f;
+}
+
+
+
+  
+.hidden {
+    display: none;
+}
